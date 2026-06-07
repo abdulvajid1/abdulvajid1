@@ -37,10 +37,11 @@ Currently exploring:
 * Agentic AI Systems
 * MLOps & Production ML
 
-### Fun Facts
+Fun Facts:
 
 * I buy books faster than I finish them
 * I constantly ask "why was this invented?"
+* Curious about almost everything, not just AI
 * I'll read anything interesting, from ML papers to fiction
 
 Thanks for stopping by.
