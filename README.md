@@ -32,19 +32,16 @@ I enjoy building projects, reproducing ideas, and digging deep enough to underst
 
 Currently exploring:
 
-* Deep Learning
-* LLMs & Modern Architectures
-* Computer Vision
-* World Models & JEPA
-* Probability & Statistics
+* Modern Deep Learning Architectures
+* LLMs, VLMs & Multimodal Systems
+* Agentic AI Systems
+* MLOps & Production ML
 
 ### Fun Facts
 
-* 📚 I buy books faster than I finish them
-* 🔍 I constantly ask "why was this invented?"
-* 📖 I'll read anything interesting, from ML papers to fiction
-* ☕ Debugging usually takes longer than training
-* 🌙 Most learning happens late at night
+* I buy books faster than I finish them
+* I constantly ask "why was this invented?"
+* I'll read anything interesting, from ML papers to fiction
 
 Thanks for stopping by.
 
