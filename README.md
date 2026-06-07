@@ -20,7 +20,7 @@ I'm obsessed with understanding how AI works under the hood.
 
 Most of my time goes into learning Deep Learning, Machine Learning, Computer Vision, LLMs, and the mathematics behind them.
 
-Beyond AI, I enjoy reading anything that helps me understand the world better—research papers, technical blogs, technical books, history, fiction, and just about any topic that sparks my curiosity.
+Beyond AI, I enjoy reading anything that helps me understand the world better—research papers, technical books, history, fiction, and just about any topic that sparks my curiosity.
 
 I love learning from first principles and often find myself asking questions like:
 
